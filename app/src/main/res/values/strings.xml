@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Qaydnoma</string>
+    <string name="title">Title</string>
+    <string name="notes">notes</string>
+    <string name="date">date</string>
+    <string name="enter_text">Enter text:</string>
+    <string name="notestaker">Title:</string>
+    <string name="todo">TODO</string>
+    <string name="pip_unpip">pip/unpip</string>
+    <string name="delete">delete</string>
+</resources>
